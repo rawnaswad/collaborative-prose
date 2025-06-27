@@ -1,0 +1,6 @@
+org\rawanaswad\SimpleProse\Sentence.class
+org\rawanaswad\SimpleProse\SimpleProse.class
+org\rawanaswad\prosebuilder\ProseBuilder.class
+org\rawanaswad\SimpleProse\CollaborativeProse.class
+org\rawanaswad\SimpleProse\Prose.class
+org\rawanaswad\SimpleProse\SimpleSentence.class
