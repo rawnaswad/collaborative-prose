@@ -24,6 +24,8 @@
   <version>1.0-SNAPSHOT</version>
 </dependency>
 
+
+ 
    <dependency>
  <groupId>com.quynyhoang</groupId>
 <artifactId>my-prose-app</artifactId> 
@@ -47,7 +49,7 @@
 <repositories>
     <repository>
     <id>github-j</id>
-      <url>  https://maven.pkg.github.com/bs-jokri/prose-builder</url>
+      <url>https://maven.pkg.github.com/judusan/prose-builder</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
